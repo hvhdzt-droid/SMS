@@ -1,0 +1,16 @@
+
+{
+  "name": "rase-messages",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "discord.js": "^14.22.1",
+    "express": "^4.21.2"
+  }
+}
